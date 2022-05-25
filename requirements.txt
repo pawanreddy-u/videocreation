@@ -1,0 +1,8 @@
+shutil
+numpy
+os
+pandas
+transformers
+sk-video
+keybert
+git+https://github.com/Joeclinton1/google-images-download.git
